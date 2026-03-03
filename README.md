@@ -21,3 +21,20 @@ A Python-based financial analytics system that analyzes 900+ bank transactions u
 - Seaborn
 
 ## Project Structure
+
+```
+Bank-Transaction-Analysis-System/
+│
+├── data/
+├── src/
+│   ├── data_generator.py
+│   ├── data_loader.py
+│   ├── eda.py
+│   ├── mining.py
+│   ├── visualization.py
+│   └── main.py
+│
+├── requirements.txt
+├── .gitignore
+└── README.md
+```
